@@ -10,15 +10,15 @@ Showcase end-to-end workflows, including EDA, preprocessing, and model evaluatio
 # Topics Covered
 The repository is organized into categories:
 
-## EDA and Preprocessing
+### EDA and Preprocessing
 Data cleaning, visualization, and feature engineering.
-## Regression
+### Regression
 Linear, Logistic, and Polynomial Regression.
-## Classification
+### Classification
 Decision Trees, Support Vector Machines, and k-Nearest Neighbors.
-## Clustering
+### Clustering
 k-Means, Hierarchical Clustering, and DBSCAN.
-## Dimensionality Reduction
+### Dimensionality Reduction
 PCA and LDA.
 Each section includes Jupyter notebooks with detailed explanations, well-commented code, and visualizations to illustrate concepts.
 
