@@ -7,27 +7,27 @@ Demonstrate my knowledge of data analysis and machine learning.
 Highlight my skills in handling real-world datasets and building models.
 Showcase end-to-end workflows, including EDA, preprocessing, and model evaluation.
 
-#Topics Covered
+# Topics Covered
 The repository is organized into categories:
 
-##EDA and Preprocessing
+## EDA and Preprocessing
 Data cleaning, visualization, and feature engineering.
-##Regression
+## Regression
 Linear, Logistic, and Polynomial Regression.
-##Classification
+## Classification
 Decision Trees, Support Vector Machines, and k-Nearest Neighbors.
-##Clustering
+## Clustering
 k-Means, Hierarchical Clustering, and DBSCAN.
-##Dimensionality Reduction
+## Dimensionality Reduction
 PCA and LDA.
 Each section includes Jupyter notebooks with detailed explanations, well-commented code, and visualizations to illustrate concepts.
 
-#Features
+# Features
 Custom Datasets: I use unique datasets collected via APIs or scraping, avoiding built-in datasets.
 Step-by-Step Explanations: All notebooks include markdown descriptions for easy understanding.
 Real-World Applications: Projects are practical and demonstrate a deep understanding of data science workflows.
 
-#How to Explore
+# How to Explore
 Browse folders to explore algorithms or techniques.
 Open any notebook to see the code and results.
 This repository reflects my commitment to continuous learning and applying data science techniques to solve problems. Feel free to explore and provide feedback! 😊
