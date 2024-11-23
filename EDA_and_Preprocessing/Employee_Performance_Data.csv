@@ -1,0 +1,91 @@
+Employee ID,Name,Department,Experience (Years),Salary (USD),Performance Score,Promoted,City,Age,Work Hours per Week,Leaves Taken,Satisfaction Level
+9953,Austin Ramos,HR,14.0,102410.15,,No,,44.0,,21,0.67
+5885,Alexis Whitaker,Finance,5.0,97074.51,,No,,,,5,0.9
+3286,Robert Lopez,Support,20.0,101339.71,70.0,Yes,Youngton,,56.0,24,0.59
+6187,Samantha Warren,Finance,,76015.04,,No,,,,12,0.64
+7949,Kristin Thornton,Operations,,51882.43,,No,Marieburgh,36.0,53.0,10,0.71
+2816,Lisa Lee,Support,,89356.43,99.0,No,North Amanda,,53.0,15,0.11
+1418,Cindy Garcia,Operations,14.0,64589.47,91.0,No,East Alexandrafort,47.0,,4,0.73
+4855,Jeffrey Miller,Marketing,1.0,108239.37,,No,,42.0,56.0,0,0.46
+7392,Eric Collins,Finance,1.0,111392.34,55.0,Yes,,,,19,0.54
+8490,Collin Casey,Finance,11.0,84374.93,,No,North Derek,,,20,0.83
+6131,Cory Wright,Operations,,118106.23,93.0,No,,,47.0,20,0.51
+6627,Kristen Crosby,Finance,8.0,71851.27,94.0,Yes,,,33.0,0,0.41
+8445,Leonard Martin,Marketing,,100978.36,,No,East Tamara,38.0,,15,0.55
+4948,Angela King,Finance,,106434.4,57.0,No,New Nicole,,35.0,0,0.25
+3818,Kyle Gonzalez,HR,,84648.07,,Yes,Jenniferside,41.0,,13,0.6
+7947,Jill Miller,IT,18.0,43625.09,63.0,No,,58.0,,6,0.36
+9678,John Mendoza,IT,5.0,116106.82,83.0,Yes,,46.0,47.0,19,0.72
+8115,Nicholas Golden,Operations,3.0,60751.92,,Yes,Frazierton,,,24,0.45
+4748,Robert Ortiz,Operations,,44320.55,,Yes,,,,22,0.91
+2896,Cody Johnston,IT,,33993.38,,No,Newtonview,,,7,0.65
+5980,Gregory Key,Support,12.0,55077.19,67.0,Yes,South Donaldborough,59.0,,9,0.81
+7793,Victoria Adams,Operations,,33162.3,,No,Hamptonberg,53.0,59.0,9,0.75
+7719,Kristen Cunningham,HR,20.0,47156.82,,No,Nelsonhaven,60.0,41.0,15,0.3
+5891,Cody Daniels,Support,1.0,41925.65,,No,Lake Debra,51.0,56.0,20,0.5
+9737,Erik Campbell,Operations,,78974.8,77.0,Yes,,,,8,0.69
+8098,Michael Armstrong,Support,,119746.39,59.0,No,Lake Scottville,,58.0,11,0.19
+3646,Deborah Smith,HR,,68171.22,100.0,No,,34.0,,8,0.49
+8806,Roger White,Finance,,92055.61,96.0,Yes,,44.0,,0,0.76
+5999,Kimberly Ferguson,HR,,30657.92,,Yes,,26.0,54.0,2,0.18
+6114,Jon Gonzales,Finance,,101790.75,74.0,No,Charlottetown,,53.0,22,0.34
+9624,Christian Pierce,HR,4.0,38297.23,96.0,Yes,,,,25,0.28
+6527,Kaitlyn Pierce,HR,15.0,86949.23,,Yes,Santanashire,37.0,46.0,6,0.68
+9842,David Park,Support,,48510.05,,No,Nicholasfort,37.0,,6,0.18
+9997,Robin Turner,Support,,115252.0,93.0,Yes,Davidborough,22.0,38.0,23,0.43
+6735,Kevin Nichols,Operations,,62586.8,,No,,57.0,42.0,20,0.97
+5861,Kathy Mcdaniel,Support,,91177.25,,No,,49.0,35.0,5,0.34
+6321,Denise Diaz,Operations,9.0,74428.14,78.0,Yes,,36.0,57.0,16,0.25
+7421,Anna Hunter,IT,,54185.01,85.0,Yes,North Scott,,45.0,24,0.98
+1259,Michelle Scott,IT,14.0,46831.05,63.0,Yes,Richardsonfort,26.0,44.0,15,0.62
+4335,Olivia Robinson,Marketing,,61475.88,64.0,No,,,43.0,9,0.16
+8141,Laura Martinez,Operations,,72142.85,,Yes,Michaeltown,25.0,,11,0.25
+1568,Jennifer Hopkins,Operations,,31831.88,,Yes,,45.0,57.0,25,0.69
+7404,Glen Howe,Marketing,15.0,42908.01,,Yes,,27.0,37.0,13,0.84
+8727,Johnny Foster,Marketing,1.0,90443.33,50.0,Yes,Hunttown,,35.0,17,0.99
+5583,Carol Jones,Support,,117144.55,87.0,No,West Rita,44.0,31.0,10,0.47
+2307,Dr. Terry Kerr Jr.,Support,11.0,106516.75,,Yes,Brittanyview,,,20,0.94
+1946,Andrew Brown,HR,,37075.99,57.0,Yes,,57.0,,20,0.97
+1063,Connie Mathews,Finance,,49992.18,,Yes,,,47.0,2,0.44
+2872,Tracy Nunez,Finance,,106869.14,97.0,Yes,,48.0,,20,0.96
+1241,Sabrina Gonzales,Operations,,62405.28,,No,,,,2,0.75
+5493,Catherine Garcia,Operations,,40657.37,90.0,Yes,West Kevin,,52.0,1,0.35
+9775,Lauren French,IT,,108855.45,82.0,No,Meganmouth,57.0,,22,0.12
+2236,Raymond Murray,IT,,94059.49,,No,,,53.0,2,0.96
+3383,Stephanie Stone,Operations,,110143.53,,No,,,,8,0.91
+9825,Maria Gomez,Support,6.0,89336.44,,No,,,37.0,5,0.48
+3132,Sharon Hahn,Finance,,94941.84,59.0,No,Port Samanthaburgh,,,25,0.86
+9750,Whitney Guzman,Support,,78896.68,,No,,,37.0,21,0.7
+7154,David Foster,Support,2.0,87562.36,,Yes,,50.0,35.0,11,0.86
+6415,Lisa Boyd MD,IT,14.0,58013.27,,Yes,,55.0,,3,0.3
+9277,Brian Peters,Support,,48050.18,,Yes,,,58.0,0,0.46
+8213,Suzanne Estes,Support,,84899.12,87.0,No,,41.0,,6,0.67
+1434,Pamela Perez,IT,15.0,90440.76,,Yes,,,,21,0.11
+4381,Shelly Sullivan,Operations,7.0,101168.46,77.0,No,East Lisa,,48.0,14,0.2
+9527,Kimberly Harvey,Operations,9.0,42611.32,,No,North Peggyhaven,,,11,0.59
+7099,Cory Roman,Support,,70410.67,,No,,59.0,33.0,4,0.36
+8275,Dustin White,Operations,12.0,30106.62,,Yes,,59.0,,4,0.58
+8034,Elijah Davis,IT,15.0,115745.94,74.0,No,Garyfort,,33.0,1,0.97
+6025,Ian Romero,Finance,,90143.9,,Yes,,,,13,0.81
+1253,Denise Ford,Finance,,73061.47,,Yes,Lake Craigshire,,,24,0.15
+8154,Russell Odonnell,Support,,88647.02,90.0,Yes,South Jodi,29.0,31.0,13,0.66
+2060,Terry Landry,IT,9.0,66463.02,98.0,Yes,,,,9,0.57
+6989,Lisa Tyler,Operations,4.0,81233.1,57.0,No,,,32.0,23,0.28
+5465,Michael Johnson,Operations,9.0,50416.29,77.0,Yes,,,44.0,14,0.39
+4757,Diana Carter,Marketing,9.0,45960.53,,Yes,,37.0,,21,0.92
+4231,Brandon Miller,Operations,,99075.16,60.0,Yes,,,,1,0.45
+4707,Dr. Tracy Hernandez,IT,,57513.17,77.0,No,,34.0,36.0,15,0.6
+4798,Janet Palmer,Support,,77108.01,,No,,,,3,0.49
+5637,Jaime Flynn,IT,0.0,56637.57,,Yes,Williamsonton,21.0,,3,0.41
+6908,Cameron Cook,Finance,,90518.89,,Yes,,54.0,,3,0.76
+4132,Christopher Hines,Marketing,,67863.08,,Yes,,44.0,31.0,1,0.74
+2220,Justin Wade,Finance,2.0,43781.54,,Yes,,28.0,47.0,24,0.66
+2441,Richard Watson,IT,12.0,65456.88,50.0,No,,,30.0,10,0.61
+7871,Matthew Brown,IT,,68862.4,78.0,No,,25.0,58.0,18,0.68
+8660,George Brown,Finance,14.0,113394.33,100.0,No,,60.0,35.0,13,0.98
+2104,Spencer Hernandez,Support,20.0,47304.68,79.0,Yes,,,47.0,20,0.36
+8662,Kathleen Johnson,Support,,43569.99,,Yes,East Aliciaton,,,8,0.33
+3097,Christina Burch,Marketing,,70936.49,,Yes,,,52.0,9,0.96
+2526,Phyllis Kelley,Marketing,4.0,93799.48,98.0,No,,,31.0,14,0.74
+7419,James Lewis,Support,10.0,114237.88,,Yes,,,,0,0.6
+3644,Amber Everett,Support,,95492.14,,No,East Tammieshire,,,21,0.66
