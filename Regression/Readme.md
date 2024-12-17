@@ -3,7 +3,7 @@ This folder explores regression techniques used for predicting continuous and ca
 
 # Linear Regression
 
-Step-by-step implementation with three datasets.
+Step-by-step implementation with different datasets.
 Real-world project showcasing predictive modeling.
 # Logistic Regression
 
