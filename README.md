@@ -15,7 +15,7 @@ Data cleaning, visualization, and feature engineering.
 ### Regression
 Linear, Logistic, and Polynomial Regression.
 ### Classification
-Decision Trees, Support Vector Machines, and k-Nearest Neighbors.
+Decision Trees, Support Vector Machines, Nive Bayes, Random Forests and k-Nearest Neighbors.
 ### Clustering
 k-Means, Hierarchical Clustering, and DBSCAN.
 ### Dimensionality Reduction
