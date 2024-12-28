@@ -1,0 +1,1001 @@
+Review_ID,Product_Category,Customer_Age,Review_Text,Sentiment
+R0001,Books,60+,Loved it! Will buy again.,Positive
+R0002,Toys,60+,Five stars!,Positive
+R0003,Toys,26-40,Superb quality and great value.,Positive
+R0004,Home Appliances,18-25,Horrible experience with this item.,Negative
+R0005,Books,18-25,"Average quality, acceptable for the price.",Neutral
+R0006,Books,41-60,"Does the job, but not great.",Neutral
+R0007,Electronics,26-40,Not worth the money.,Negative
+R0008,Toys,18-25,"Terrible product, do not buy!",Negative
+R0009,Electronics,18-25,Loved it! Will buy again.,Positive
+R0010,Apparel,18-25,Superb quality and great value.,Positive
+R0011,Electronics,41-60,"Does the job, but not great.",Neutral
+R0012,Apparel,18-25,"It's okay, nothing special.",Neutral
+R0013,Home Appliances,18-25,"Average quality, acceptable for the price.",Neutral
+R0014,Toys,26-40,"Does the job, but not great.",Neutral
+R0015,Books,60+,"Average quality, acceptable for the price.",Neutral
+R0016,Books,60+,"Does the job, but not great.",Neutral
+R0017,Home Appliances,18-25,"Does the job, but not great.",Neutral
+R0018,Electronics,18-25,Five stars!,Positive
+R0019,Apparel,18-25,"Terrible product, do not buy!",Negative
+R0020,Apparel,60+,Highly recommend this.,Positive
+R0021,Home Appliances,26-40,"Does the job, but not great.",Neutral
+R0022,Electronics,18-25,Horrible experience with this item.,Negative
+R0023,Apparel,41-60,Superb quality and great value.,Positive
+R0024,Home Appliances,60+,"Terrible product, do not buy!",Negative
+R0025,Apparel,60+,"It's okay, nothing special.",Neutral
+R0026,Apparel,26-40,Perfect in every way!,Positive
+R0027,Electronics,26-40,Very disappointing.,Negative
+R0028,Apparel,26-40,Horrible experience with this item.,Negative
+R0029,Apparel,26-40,Not worth the money.,Negative
+R0030,Books,41-60,Amazing product!,Positive
+R0031,Toys,26-40,Superb quality and great value.,Positive
+R0032,Toys,18-25,Highly recommend this.,Positive
+R0033,Apparel,26-40,Meets expectations but no more.,Neutral
+R0034,Books,18-25,Not worth the money.,Negative
+R0035,Books,18-25,Horrible experience with this item.,Negative
+R0036,Toys,18-25,Five stars!,Positive
+R0037,Apparel,41-60,"Terrible product, do not buy!",Negative
+R0038,Electronics,18-25,"It's okay, nothing special.",Neutral
+R0039,Apparel,60+,Five stars!,Positive
+R0040,Books,41-60,"Terrible product, do not buy!",Negative
+R0041,Electronics,26-40,Will never buy this again.,Negative
+R0042,Toys,60+,Neutral feelings about this.,Neutral
+R0043,Electronics,26-40,Not worth the money.,Negative
+R0044,Electronics,26-40,Superb quality and great value.,Positive
+R0045,Electronics,60+,"Does the job, but not great.",Neutral
+R0046,Apparel,26-40,Amazing product!,Positive
+R0047,Home Appliances,41-60,Will never buy this again.,Negative
+R0048,Home Appliances,60+,Superb quality and great value.,Positive
+R0049,Apparel,60+,"Average quality, acceptable for the price.",Neutral
+R0050,Apparel,60+,"Terrible product, do not buy!",Negative
+R0051,Apparel,60+,Perfect in every way!,Positive
+R0052,Books,18-25,"Does the job, but not great.",Neutral
+R0053,Apparel,60+,Poor quality and bad design.,Negative
+R0054,Books,41-60,Superb quality and great value.,Positive
+R0055,Home Appliances,60+,Superb quality and great value.,Positive
+R0056,Electronics,26-40,Poor quality and bad design.,Negative
+R0057,Books,41-60,"Does the job, but not great.",Neutral
+R0058,Electronics,60+,"It's okay, nothing special.",Neutral
+R0059,Home Appliances,41-60,Loved it! Will buy again.,Positive
+R0060,Home Appliances,60+,Meets expectations but no more.,Neutral
+R0061,Electronics,60+,Will never buy this again.,Negative
+R0062,Apparel,26-40,"It's okay, nothing special.",Neutral
+R0063,Books,18-25,Neutral feelings about this.,Neutral
+R0064,Home Appliances,26-40,Horrible experience with this item.,Negative
+R0065,Books,41-60,Neutral feelings about this.,Neutral
+R0066,Electronics,18-25,Not worth the money.,Negative
+R0067,Toys,41-60,Loved it! Will buy again.,Positive
+R0068,Electronics,26-40,Perfect in every way!,Positive
+R0069,Apparel,18-25,Neutral feelings about this.,Neutral
+R0070,Apparel,60+,Will never buy this again.,Negative
+R0071,Toys,18-25,Not worth the money.,Negative
+R0072,Apparel,26-40,Will never buy this again.,Negative
+R0073,Electronics,41-60,Perfect in every way!,Positive
+R0074,Home Appliances,60+,Horrible experience with this item.,Negative
+R0075,Toys,41-60,Amazing product!,Positive
+R0076,Books,26-40,"Does the job, but not great.",Neutral
+R0077,Books,18-25,Exceeded my expectations!,Positive
+R0078,Books,60+,Poor quality and bad design.,Negative
+R0079,Electronics,26-40,Exceeded my expectations!,Positive
+R0080,Books,60+,"Terrible product, do not buy!",Negative
+R0081,Apparel,41-60,Meets expectations but no more.,Neutral
+R0082,Books,26-40,Loved it! Will buy again.,Positive
+R0083,Apparel,26-40,"Does the job, but not great.",Neutral
+R0084,Electronics,18-25,Loved it! Will buy again.,Positive
+R0085,Toys,26-40,Highly recommend this.,Positive
+R0086,Electronics,18-25,Highly recommend this.,Positive
+R0087,Home Appliances,60+,Perfect in every way!,Positive
+R0088,Toys,26-40,"It's okay, nothing special.",Neutral
+R0089,Electronics,18-25,Meets expectations but no more.,Neutral
+R0090,Toys,26-40,"Average quality, acceptable for the price.",Neutral
+R0091,Electronics,18-25,Not worth the money.,Negative
+R0092,Books,60+,Meets expectations but no more.,Neutral
+R0093,Apparel,60+,Superb quality and great value.,Positive
+R0094,Toys,60+,"It's okay, nothing special.",Neutral
+R0095,Home Appliances,41-60,"It's okay, nothing special.",Neutral
+R0096,Toys,60+,Will never buy this again.,Negative
+R0097,Electronics,60+,Five stars!,Positive
+R0098,Home Appliances,26-40,"Average quality, acceptable for the price.",Neutral
+R0099,Books,18-25,Neutral feelings about this.,Neutral
+R0100,Home Appliances,60+,Not worth the money.,Negative
+R0101,Toys,18-25,Five stars!,Positive
+R0102,Books,60+,Not worth the money.,Negative
+R0103,Toys,41-60,Not worth the money.,Negative
+R0104,Electronics,41-60,Exceeded my expectations!,Positive
+R0105,Apparel,60+,Superb quality and great value.,Positive
+R0106,Electronics,18-25,"Does the job, but not great.",Neutral
+R0107,Toys,60+,Exceeded my expectations!,Positive
+R0108,Books,60+,Not worth the money.,Negative
+R0109,Home Appliances,41-60,"Average quality, acceptable for the price.",Neutral
+R0110,Toys,26-40,"Average quality, acceptable for the price.",Neutral
+R0111,Apparel,41-60,"Does the job, but not great.",Neutral
+R0112,Electronics,60+,"It's okay, nothing special.",Neutral
+R0113,Electronics,18-25,Superb quality and great value.,Positive
+R0114,Apparel,60+,Highly recommend this.,Positive
+R0115,Home Appliances,41-60,Highly recommend this.,Positive
+R0116,Books,26-40,Highly recommend this.,Positive
+R0117,Apparel,26-40,Highly recommend this.,Positive
+R0118,Toys,18-25,Amazing product!,Positive
+R0119,Apparel,41-60,Perfect in every way!,Positive
+R0120,Home Appliances,60+,Horrible experience with this item.,Negative
+R0121,Books,26-40,"Average quality, acceptable for the price.",Neutral
+R0122,Apparel,41-60,Will never buy this again.,Negative
+R0123,Apparel,18-25,Meets expectations but no more.,Neutral
+R0124,Books,26-40,Poor quality and bad design.,Negative
+R0125,Apparel,26-40,"Does the job, but not great.",Neutral
+R0126,Apparel,18-25,Neutral feelings about this.,Neutral
+R0127,Electronics,18-25,Very disappointing.,Negative
+R0128,Electronics,26-40,Amazing product!,Positive
+R0129,Books,60+,Horrible experience with this item.,Negative
+R0130,Toys,60+,Meets expectations but no more.,Neutral
+R0131,Toys,18-25,Perfect in every way!,Positive
+R0132,Books,18-25,"It's okay, nothing special.",Neutral
+R0133,Books,60+,Will never buy this again.,Negative
+R0134,Toys,41-60,Five stars!,Positive
+R0135,Home Appliances,60+,Poor quality and bad design.,Negative
+R0136,Books,26-40,Five stars!,Positive
+R0137,Apparel,26-40,"It's okay, nothing special.",Neutral
+R0138,Toys,60+,"Terrible product, do not buy!",Negative
+R0139,Books,60+,Very disappointing.,Negative
+R0140,Books,18-25,Poor quality and bad design.,Negative
+R0141,Apparel,60+,Horrible experience with this item.,Negative
+R0142,Books,60+,Neutral feelings about this.,Neutral
+R0143,Toys,18-25,Neutral feelings about this.,Neutral
+R0144,Toys,18-25,Superb quality and great value.,Positive
+R0145,Home Appliances,18-25,Amazing product!,Positive
+R0146,Electronics,26-40,Amazing product!,Positive
+R0147,Books,60+,Meets expectations but no more.,Neutral
+R0148,Toys,26-40,Five stars!,Positive
+R0149,Electronics,26-40,Meets expectations but no more.,Neutral
+R0150,Toys,41-60,"Terrible product, do not buy!",Negative
+R0151,Home Appliances,18-25,"Average quality, acceptable for the price.",Neutral
+R0152,Apparel,18-25,Horrible experience with this item.,Negative
+R0153,Apparel,18-25,"Average quality, acceptable for the price.",Neutral
+R0154,Apparel,18-25,Horrible experience with this item.,Negative
+R0155,Apparel,26-40,"Does the job, but not great.",Neutral
+R0156,Apparel,60+,Amazing product!,Positive
+R0157,Home Appliances,41-60,"Does the job, but not great.",Neutral
+R0158,Toys,18-25,Amazing product!,Positive
+R0159,Books,41-60,"Does the job, but not great.",Neutral
+R0160,Home Appliances,18-25,"Terrible product, do not buy!",Negative
+R0161,Apparel,60+,Neutral feelings about this.,Neutral
+R0162,Electronics,41-60,Five stars!,Positive
+R0163,Home Appliances,18-25,"Average quality, acceptable for the price.",Neutral
+R0164,Electronics,26-40,Highly recommend this.,Positive
+R0165,Toys,18-25,Superb quality and great value.,Positive
+R0166,Home Appliances,60+,Very disappointing.,Negative
+R0167,Books,26-40,Loved it! Will buy again.,Positive
+R0168,Electronics,60+,Horrible experience with this item.,Negative
+R0169,Toys,41-60,Amazing product!,Positive
+R0170,Toys,18-25,Very disappointing.,Negative
+R0171,Electronics,60+,"Terrible product, do not buy!",Negative
+R0172,Books,60+,"It's okay, nothing special.",Neutral
+R0173,Home Appliances,41-60,"Terrible product, do not buy!",Negative
+R0174,Electronics,26-40,Neutral feelings about this.,Neutral
+R0175,Toys,18-25,"Average quality, acceptable for the price.",Neutral
+R0176,Electronics,41-60,Meets expectations but no more.,Neutral
+R0177,Apparel,60+,Not worth the money.,Negative
+R0178,Toys,41-60,Poor quality and bad design.,Negative
+R0179,Toys,60+,Perfect in every way!,Positive
+R0180,Toys,26-40,Poor quality and bad design.,Negative
+R0181,Apparel,41-60,Neutral feelings about this.,Neutral
+R0182,Apparel,18-25,Five stars!,Positive
+R0183,Toys,41-60,"It's okay, nothing special.",Neutral
+R0184,Apparel,60+,Very disappointing.,Negative
+R0185,Home Appliances,26-40,Meets expectations but no more.,Neutral
+R0186,Toys,41-60,"It's okay, nothing special.",Neutral
+R0187,Books,41-60,"Does the job, but not great.",Neutral
+R0188,Electronics,41-60,Amazing product!,Positive
+R0189,Home Appliances,18-25,Amazing product!,Positive
+R0190,Apparel,26-40,Meets expectations but no more.,Neutral
+R0191,Apparel,18-25,Will never buy this again.,Negative
+R0192,Toys,18-25,Five stars!,Positive
+R0193,Books,26-40,"Does the job, but not great.",Neutral
+R0194,Apparel,18-25,Exceeded my expectations!,Positive
+R0195,Books,18-25,Poor quality and bad design.,Negative
+R0196,Electronics,60+,Superb quality and great value.,Positive
+R0197,Books,60+,Poor quality and bad design.,Negative
+R0198,Home Appliances,60+,"Average quality, acceptable for the price.",Neutral
+R0199,Apparel,26-40,Loved it! Will buy again.,Positive
+R0200,Toys,18-25,Amazing product!,Positive
+R0201,Books,26-40,Exceeded my expectations!,Positive
+R0202,Apparel,26-40,Loved it! Will buy again.,Positive
+R0203,Toys,18-25,Will never buy this again.,Negative
+R0204,Home Appliances,26-40,Horrible experience with this item.,Negative
+R0205,Apparel,60+,Not worth the money.,Negative
+R0206,Home Appliances,26-40,"Does the job, but not great.",Neutral
+R0207,Apparel,18-25,Neutral feelings about this.,Neutral
+R0208,Home Appliances,60+,Will never buy this again.,Negative
+R0209,Electronics,18-25,Very disappointing.,Negative
+R0210,Toys,41-60,Highly recommend this.,Positive
+R0211,Toys,60+,Neutral feelings about this.,Neutral
+R0212,Electronics,60+,Superb quality and great value.,Positive
+R0213,Apparel,60+,Poor quality and bad design.,Negative
+R0214,Home Appliances,60+,Horrible experience with this item.,Negative
+R0215,Toys,26-40,Horrible experience with this item.,Negative
+R0216,Electronics,26-40,"It's okay, nothing special.",Neutral
+R0217,Electronics,26-40,"Average quality, acceptable for the price.",Neutral
+R0218,Electronics,41-60,Not worth the money.,Negative
+R0219,Toys,26-40,Horrible experience with this item.,Negative
+R0220,Electronics,26-40,Not worth the money.,Negative
+R0221,Home Appliances,18-25,Meets expectations but no more.,Neutral
+R0222,Toys,26-40,Highly recommend this.,Positive
+R0223,Home Appliances,18-25,"Does the job, but not great.",Neutral
+R0224,Toys,41-60,Not worth the money.,Negative
+R0225,Electronics,18-25,Horrible experience with this item.,Negative
+R0226,Home Appliances,60+,Superb quality and great value.,Positive
+R0227,Home Appliances,41-60,Perfect in every way!,Positive
+R0228,Electronics,26-40,Neutral feelings about this.,Neutral
+R0229,Toys,60+,"Does the job, but not great.",Neutral
+R0230,Home Appliances,26-40,Highly recommend this.,Positive
+R0231,Books,18-25,Horrible experience with this item.,Negative
+R0232,Electronics,26-40,"Does the job, but not great.",Neutral
+R0233,Apparel,60+,Loved it! Will buy again.,Positive
+R0234,Apparel,60+,Not worth the money.,Negative
+R0235,Toys,41-60,Neutral feelings about this.,Neutral
+R0236,Home Appliances,18-25,Horrible experience with this item.,Negative
+R0237,Toys,18-25,"Terrible product, do not buy!",Negative
+R0238,Home Appliances,18-25,Five stars!,Positive
+R0239,Electronics,41-60,Meets expectations but no more.,Neutral
+R0240,Home Appliances,18-25,"Terrible product, do not buy!",Negative
+R0241,Electronics,60+,Not worth the money.,Negative
+R0242,Home Appliances,41-60,Meets expectations but no more.,Neutral
+R0243,Electronics,26-40,"Does the job, but not great.",Neutral
+R0244,Apparel,18-25,Very disappointing.,Negative
+R0245,Electronics,60+,Will never buy this again.,Negative
+R0246,Apparel,18-25,Highly recommend this.,Positive
+R0247,Apparel,60+,Not worth the money.,Negative
+R0248,Electronics,18-25,"Does the job, but not great.",Neutral
+R0249,Apparel,18-25,Amazing product!,Positive
+R0250,Electronics,41-60,Loved it! Will buy again.,Positive
+R0251,Books,26-40,"Terrible product, do not buy!",Negative
+R0252,Home Appliances,60+,"Average quality, acceptable for the price.",Neutral
+R0253,Books,41-60,Will never buy this again.,Negative
+R0254,Books,18-25,Poor quality and bad design.,Negative
+R0255,Apparel,41-60,"Terrible product, do not buy!",Negative
+R0256,Toys,18-25,Amazing product!,Positive
+R0257,Electronics,60+,Very disappointing.,Negative
+R0258,Books,41-60,"Does the job, but not great.",Neutral
+R0259,Electronics,60+,Highly recommend this.,Positive
+R0260,Electronics,60+,Will never buy this again.,Negative
+R0261,Home Appliances,26-40,Superb quality and great value.,Positive
+R0262,Electronics,60+,"Terrible product, do not buy!",Negative
+R0263,Books,60+,"Average quality, acceptable for the price.",Neutral
+R0264,Apparel,60+,Very disappointing.,Negative
+R0265,Home Appliances,18-25,Superb quality and great value.,Positive
+R0266,Apparel,41-60,"It's okay, nothing special.",Neutral
+R0267,Electronics,18-25,Highly recommend this.,Positive
+R0268,Electronics,18-25,Highly recommend this.,Positive
+R0269,Electronics,60+,Not worth the money.,Negative
+R0270,Apparel,26-40,Superb quality and great value.,Positive
+R0271,Books,60+,Perfect in every way!,Positive
+R0272,Books,18-25,Amazing product!,Positive
+R0273,Apparel,26-40,Will never buy this again.,Negative
+R0274,Apparel,18-25,"Terrible product, do not buy!",Negative
+R0275,Home Appliances,26-40,Perfect in every way!,Positive
+R0276,Toys,26-40,"Does the job, but not great.",Neutral
+R0277,Apparel,18-25,Will never buy this again.,Negative
+R0278,Toys,60+,Very disappointing.,Negative
+R0279,Apparel,41-60,Exceeded my expectations!,Positive
+R0280,Books,18-25,Poor quality and bad design.,Negative
+R0281,Books,60+,"Terrible product, do not buy!",Negative
+R0282,Electronics,60+,Poor quality and bad design.,Negative
+R0283,Apparel,26-40,Superb quality and great value.,Positive
+R0284,Books,18-25,"Terrible product, do not buy!",Negative
+R0285,Books,41-60,Amazing product!,Positive
+R0286,Books,18-25,Horrible experience with this item.,Negative
+R0287,Electronics,60+,Exceeded my expectations!,Positive
+R0288,Home Appliances,26-40,Horrible experience with this item.,Negative
+R0289,Apparel,26-40,"Does the job, but not great.",Neutral
+R0290,Toys,60+,Poor quality and bad design.,Negative
+R0291,Electronics,18-25,Superb quality and great value.,Positive
+R0292,Toys,41-60,Will never buy this again.,Negative
+R0293,Books,26-40,Exceeded my expectations!,Positive
+R0294,Home Appliances,26-40,Not worth the money.,Negative
+R0295,Home Appliances,60+,Meets expectations but no more.,Neutral
+R0296,Electronics,60+,"Does the job, but not great.",Neutral
+R0297,Home Appliances,41-60,Neutral feelings about this.,Neutral
+R0298,Toys,26-40,Highly recommend this.,Positive
+R0299,Books,26-40,Neutral feelings about this.,Neutral
+R0300,Toys,18-25,Poor quality and bad design.,Negative
+R0301,Toys,26-40,"Terrible product, do not buy!",Negative
+R0302,Toys,60+,Superb quality and great value.,Positive
+R0303,Apparel,41-60,Meets expectations but no more.,Neutral
+R0304,Apparel,18-25,"It's okay, nothing special.",Neutral
+R0305,Electronics,60+,Poor quality and bad design.,Negative
+R0306,Apparel,18-25,"Does the job, but not great.",Neutral
+R0307,Home Appliances,60+,"Terrible product, do not buy!",Negative
+R0308,Books,41-60,Neutral feelings about this.,Neutral
+R0309,Electronics,26-40,Horrible experience with this item.,Negative
+R0310,Toys,26-40,Meets expectations but no more.,Neutral
+R0311,Electronics,60+,Meets expectations but no more.,Neutral
+R0312,Electronics,60+,Perfect in every way!,Positive
+R0313,Books,60+,Will never buy this again.,Negative
+R0314,Apparel,60+,Poor quality and bad design.,Negative
+R0315,Books,60+,"Average quality, acceptable for the price.",Neutral
+R0316,Apparel,18-25,Not worth the money.,Negative
+R0317,Books,60+,Highly recommend this.,Positive
+R0318,Books,18-25,Perfect in every way!,Positive
+R0319,Books,18-25,Poor quality and bad design.,Negative
+R0320,Electronics,26-40,Meets expectations but no more.,Neutral
+R0321,Apparel,41-60,Neutral feelings about this.,Neutral
+R0322,Books,41-60,"Terrible product, do not buy!",Negative
+R0323,Books,26-40,Very disappointing.,Negative
+R0324,Books,41-60,Perfect in every way!,Positive
+R0325,Electronics,18-25,"Does the job, but not great.",Neutral
+R0326,Toys,41-60,Exceeded my expectations!,Positive
+R0327,Apparel,18-25,"It's okay, nothing special.",Neutral
+R0328,Electronics,18-25,Meets expectations but no more.,Neutral
+R0329,Books,26-40,Perfect in every way!,Positive
+R0330,Toys,18-25,Superb quality and great value.,Positive
+R0331,Toys,41-60,Horrible experience with this item.,Negative
+R0332,Electronics,18-25,"Does the job, but not great.",Neutral
+R0333,Books,60+,"Average quality, acceptable for the price.",Neutral
+R0334,Home Appliances,60+,Will never buy this again.,Negative
+R0335,Electronics,60+,Neutral feelings about this.,Neutral
+R0336,Toys,60+,Loved it! Will buy again.,Positive
+R0337,Electronics,26-40,Loved it! Will buy again.,Positive
+R0338,Electronics,18-25,Exceeded my expectations!,Positive
+R0339,Toys,41-60,Horrible experience with this item.,Negative
+R0340,Books,41-60,Perfect in every way!,Positive
+R0341,Toys,18-25,Meets expectations but no more.,Neutral
+R0342,Home Appliances,41-60,Perfect in every way!,Positive
+R0343,Toys,18-25,"It's okay, nothing special.",Neutral
+R0344,Books,41-60,Horrible experience with this item.,Negative
+R0345,Apparel,18-25,"It's okay, nothing special.",Neutral
+R0346,Home Appliances,26-40,Highly recommend this.,Positive
+R0347,Home Appliances,26-40,Meets expectations but no more.,Neutral
+R0348,Books,41-60,Loved it! Will buy again.,Positive
+R0349,Home Appliances,41-60,Poor quality and bad design.,Negative
+R0350,Electronics,41-60,"Terrible product, do not buy!",Negative
+R0351,Books,18-25,Neutral feelings about this.,Neutral
+R0352,Electronics,41-60,Exceeded my expectations!,Positive
+R0353,Home Appliances,60+,Perfect in every way!,Positive
+R0354,Toys,60+,Very disappointing.,Negative
+R0355,Books,60+,Superb quality and great value.,Positive
+R0356,Books,41-60,"Does the job, but not great.",Neutral
+R0357,Apparel,60+,Five stars!,Positive
+R0358,Toys,26-40,"Average quality, acceptable for the price.",Neutral
+R0359,Home Appliances,18-25,Very disappointing.,Negative
+R0360,Apparel,60+,Loved it! Will buy again.,Positive
+R0361,Electronics,26-40,Not worth the money.,Negative
+R0362,Home Appliances,41-60,Not worth the money.,Negative
+R0363,Books,26-40,"Average quality, acceptable for the price.",Neutral
+R0364,Apparel,26-40,Not worth the money.,Negative
+R0365,Toys,18-25,Neutral feelings about this.,Neutral
+R0366,Home Appliances,60+,Will never buy this again.,Negative
+R0367,Books,18-25,Will never buy this again.,Negative
+R0368,Electronics,18-25,Poor quality and bad design.,Negative
+R0369,Electronics,41-60,Loved it! Will buy again.,Positive
+R0370,Apparel,26-40,Poor quality and bad design.,Negative
+R0371,Toys,26-40,Horrible experience with this item.,Negative
+R0372,Apparel,26-40,"Terrible product, do not buy!",Negative
+R0373,Apparel,18-25,Superb quality and great value.,Positive
+R0374,Books,41-60,Horrible experience with this item.,Negative
+R0375,Electronics,41-60,Exceeded my expectations!,Positive
+R0376,Home Appliances,41-60,Superb quality and great value.,Positive
+R0377,Toys,41-60,"It's okay, nothing special.",Neutral
+R0378,Electronics,26-40,Loved it! Will buy again.,Positive
+R0379,Toys,60+,Neutral feelings about this.,Neutral
+R0380,Electronics,41-60,Meets expectations but no more.,Neutral
+R0381,Books,26-40,Loved it! Will buy again.,Positive
+R0382,Apparel,60+,Very disappointing.,Negative
+R0383,Electronics,41-60,Poor quality and bad design.,Negative
+R0384,Electronics,41-60,Loved it! Will buy again.,Positive
+R0385,Home Appliances,26-40,Neutral feelings about this.,Neutral
+R0386,Home Appliances,41-60,Neutral feelings about this.,Neutral
+R0387,Apparel,60+,"Average quality, acceptable for the price.",Neutral
+R0388,Home Appliances,26-40,"Average quality, acceptable for the price.",Neutral
+R0389,Toys,26-40,Neutral feelings about this.,Neutral
+R0390,Home Appliances,41-60,Neutral feelings about this.,Neutral
+R0391,Home Appliances,41-60,Horrible experience with this item.,Negative
+R0392,Toys,18-25,Amazing product!,Positive
+R0393,Apparel,26-40,Horrible experience with this item.,Negative
+R0394,Books,60+,"Terrible product, do not buy!",Negative
+R0395,Toys,41-60,Perfect in every way!,Positive
+R0396,Apparel,26-40,"It's okay, nothing special.",Neutral
+R0397,Books,41-60,"It's okay, nothing special.",Neutral
+R0398,Home Appliances,60+,Loved it! Will buy again.,Positive
+R0399,Books,60+,"Does the job, but not great.",Neutral
+R0400,Electronics,18-25,"Terrible product, do not buy!",Negative
+R0401,Electronics,41-60,Five stars!,Positive
+R0402,Toys,18-25,Loved it! Will buy again.,Positive
+R0403,Electronics,41-60,Will never buy this again.,Negative
+R0404,Electronics,60+,"Terrible product, do not buy!",Negative
+R0405,Apparel,18-25,Highly recommend this.,Positive
+R0406,Books,41-60,"Average quality, acceptable for the price.",Neutral
+R0407,Books,60+,Not worth the money.,Negative
+R0408,Apparel,18-25,"It's okay, nothing special.",Neutral
+R0409,Home Appliances,60+,Neutral feelings about this.,Neutral
+R0410,Toys,26-40,Perfect in every way!,Positive
+R0411,Electronics,26-40,Exceeded my expectations!,Positive
+R0412,Books,60+,"Average quality, acceptable for the price.",Neutral
+R0413,Toys,26-40,Superb quality and great value.,Positive
+R0414,Home Appliances,18-25,"It's okay, nothing special.",Neutral
+R0415,Apparel,26-40,Superb quality and great value.,Positive
+R0416,Toys,18-25,Horrible experience with this item.,Negative
+R0417,Books,60+,Perfect in every way!,Positive
+R0418,Home Appliances,41-60,Will never buy this again.,Negative
+R0419,Apparel,26-40,"It's okay, nothing special.",Neutral
+R0420,Books,18-25,Exceeded my expectations!,Positive
+R0421,Apparel,41-60,Loved it! Will buy again.,Positive
+R0422,Toys,26-40,Loved it! Will buy again.,Positive
+R0423,Toys,26-40,Neutral feelings about this.,Neutral
+R0424,Apparel,18-25,Five stars!,Positive
+R0425,Electronics,60+,Five stars!,Positive
+R0426,Home Appliances,18-25,Loved it! Will buy again.,Positive
+R0427,Toys,18-25,"Average quality, acceptable for the price.",Neutral
+R0428,Electronics,18-25,"Average quality, acceptable for the price.",Neutral
+R0429,Home Appliances,41-60,Neutral feelings about this.,Neutral
+R0430,Books,26-40,"Terrible product, do not buy!",Negative
+R0431,Electronics,41-60,Superb quality and great value.,Positive
+R0432,Apparel,41-60,Will never buy this again.,Negative
+R0433,Home Appliances,41-60,Horrible experience with this item.,Negative
+R0434,Electronics,26-40,Amazing product!,Positive
+R0435,Toys,18-25,Neutral feelings about this.,Neutral
+R0436,Electronics,26-40,"Does the job, but not great.",Neutral
+R0437,Apparel,18-25,Amazing product!,Positive
+R0438,Apparel,60+,"Terrible product, do not buy!",Negative
+R0439,Apparel,41-60,"Does the job, but not great.",Neutral
+R0440,Apparel,41-60,Five stars!,Positive
+R0441,Apparel,60+,"Average quality, acceptable for the price.",Neutral
+R0442,Books,60+,"Average quality, acceptable for the price.",Neutral
+R0443,Home Appliances,60+,Neutral feelings about this.,Neutral
+R0444,Books,18-25,"Average quality, acceptable for the price.",Neutral
+R0445,Home Appliances,26-40,Not worth the money.,Negative
+R0446,Toys,60+,Superb quality and great value.,Positive
+R0447,Home Appliances,60+,Five stars!,Positive
+R0448,Toys,26-40,Neutral feelings about this.,Neutral
+R0449,Apparel,18-25,Exceeded my expectations!,Positive
+R0450,Toys,18-25,Neutral feelings about this.,Neutral
+R0451,Books,18-25,Meets expectations but no more.,Neutral
+R0452,Toys,41-60,"It's okay, nothing special.",Neutral
+R0453,Toys,18-25,Meets expectations but no more.,Neutral
+R0454,Home Appliances,60+,Highly recommend this.,Positive
+R0455,Home Appliances,60+,"Terrible product, do not buy!",Negative
+R0456,Toys,60+,Five stars!,Positive
+R0457,Books,26-40,Neutral feelings about this.,Neutral
+R0458,Apparel,26-40,Horrible experience with this item.,Negative
+R0459,Home Appliances,41-60,Perfect in every way!,Positive
+R0460,Apparel,26-40,Will never buy this again.,Negative
+R0461,Electronics,60+,Loved it! Will buy again.,Positive
+R0462,Toys,41-60,Not worth the money.,Negative
+R0463,Electronics,26-40,Very disappointing.,Negative
+R0464,Home Appliances,41-60,"Average quality, acceptable for the price.",Neutral
+R0465,Apparel,60+,Perfect in every way!,Positive
+R0466,Home Appliances,41-60,Exceeded my expectations!,Positive
+R0467,Apparel,60+,Exceeded my expectations!,Positive
+R0468,Toys,26-40,Neutral feelings about this.,Neutral
+R0469,Home Appliances,60+,Horrible experience with this item.,Negative
+R0470,Toys,60+,"Does the job, but not great.",Neutral
+R0471,Books,18-25,Highly recommend this.,Positive
+R0472,Toys,60+,"Does the job, but not great.",Neutral
+R0473,Home Appliances,18-25,Exceeded my expectations!,Positive
+R0474,Toys,60+,Not worth the money.,Negative
+R0475,Home Appliances,60+,Poor quality and bad design.,Negative
+R0476,Toys,60+,Neutral feelings about this.,Neutral
+R0477,Apparel,18-25,"It's okay, nothing special.",Neutral
+R0478,Electronics,26-40,"Average quality, acceptable for the price.",Neutral
+R0479,Home Appliances,26-40,"It's okay, nothing special.",Neutral
+R0480,Home Appliances,41-60,Superb quality and great value.,Positive
+R0481,Books,26-40,Perfect in every way!,Positive
+R0482,Apparel,41-60,Not worth the money.,Negative
+R0483,Electronics,60+,Neutral feelings about this.,Neutral
+R0484,Electronics,41-60,Very disappointing.,Negative
+R0485,Electronics,18-25,Not worth the money.,Negative
+R0486,Electronics,18-25,Poor quality and bad design.,Negative
+R0487,Electronics,18-25,"Does the job, but not great.",Neutral
+R0488,Toys,18-25,Meets expectations but no more.,Neutral
+R0489,Apparel,26-40,"Average quality, acceptable for the price.",Neutral
+R0490,Toys,60+,Exceeded my expectations!,Positive
+R0491,Toys,60+,"It's okay, nothing special.",Neutral
+R0492,Electronics,60+,"Does the job, but not great.",Neutral
+R0493,Toys,41-60,Neutral feelings about this.,Neutral
+R0494,Books,41-60,Amazing product!,Positive
+R0495,Apparel,26-40,"Terrible product, do not buy!",Negative
+R0496,Toys,26-40,Horrible experience with this item.,Negative
+R0497,Electronics,18-25,Meets expectations but no more.,Neutral
+R0498,Books,41-60,Exceeded my expectations!,Positive
+R0499,Toys,41-60,Neutral feelings about this.,Neutral
+R0500,Electronics,60+,"Average quality, acceptable for the price.",Neutral
+R0501,Electronics,18-25,"Does the job, but not great.",Neutral
+R0502,Toys,60+,Poor quality and bad design.,Negative
+R0503,Home Appliances,18-25,Perfect in every way!,Positive
+R0504,Apparel,26-40,Meets expectations but no more.,Neutral
+R0505,Books,18-25,Meets expectations but no more.,Neutral
+R0506,Toys,26-40,"Terrible product, do not buy!",Negative
+R0507,Toys,60+,Meets expectations but no more.,Neutral
+R0508,Apparel,41-60,"Does the job, but not great.",Neutral
+R0509,Toys,41-60,Perfect in every way!,Positive
+R0510,Electronics,26-40,Poor quality and bad design.,Negative
+R0511,Home Appliances,18-25,Exceeded my expectations!,Positive
+R0512,Home Appliances,18-25,Amazing product!,Positive
+R0513,Home Appliances,26-40,"Does the job, but not great.",Neutral
+R0514,Electronics,26-40,"It's okay, nothing special.",Neutral
+R0515,Books,60+,Not worth the money.,Negative
+R0516,Toys,26-40,Superb quality and great value.,Positive
+R0517,Home Appliances,60+,"Average quality, acceptable for the price.",Neutral
+R0518,Apparel,41-60,Highly recommend this.,Positive
+R0519,Books,41-60,"Terrible product, do not buy!",Negative
+R0520,Books,26-40,Not worth the money.,Negative
+R0521,Toys,18-25,Meets expectations but no more.,Neutral
+R0522,Apparel,26-40,Meets expectations but no more.,Neutral
+R0523,Electronics,18-25,Five stars!,Positive
+R0524,Home Appliances,60+,Meets expectations but no more.,Neutral
+R0525,Apparel,18-25,Horrible experience with this item.,Negative
+R0526,Home Appliances,41-60,Horrible experience with this item.,Negative
+R0527,Books,18-25,"Average quality, acceptable for the price.",Neutral
+R0528,Apparel,18-25,Not worth the money.,Negative
+R0529,Books,60+,Superb quality and great value.,Positive
+R0530,Home Appliances,26-40,Neutral feelings about this.,Neutral
+R0531,Books,18-25,Exceeded my expectations!,Positive
+R0532,Books,41-60,Horrible experience with this item.,Negative
+R0533,Toys,60+,Meets expectations but no more.,Neutral
+R0534,Home Appliances,60+,Loved it! Will buy again.,Positive
+R0535,Books,41-60,Five stars!,Positive
+R0536,Toys,41-60,Very disappointing.,Negative
+R0537,Books,60+,Not worth the money.,Negative
+R0538,Apparel,41-60,"Terrible product, do not buy!",Negative
+R0539,Books,41-60,Amazing product!,Positive
+R0540,Electronics,60+,Poor quality and bad design.,Negative
+R0541,Apparel,41-60,Horrible experience with this item.,Negative
+R0542,Home Appliances,18-25,Meets expectations but no more.,Neutral
+R0543,Toys,18-25,Horrible experience with this item.,Negative
+R0544,Apparel,18-25,Not worth the money.,Negative
+R0545,Home Appliances,60+,Very disappointing.,Negative
+R0546,Toys,26-40,Poor quality and bad design.,Negative
+R0547,Home Appliances,41-60,Meets expectations but no more.,Neutral
+R0548,Toys,26-40,"Average quality, acceptable for the price.",Neutral
+R0549,Toys,60+,Exceeded my expectations!,Positive
+R0550,Books,26-40,"It's okay, nothing special.",Neutral
+R0551,Apparel,60+,"Average quality, acceptable for the price.",Neutral
+R0552,Apparel,41-60,"Does the job, but not great.",Neutral
+R0553,Books,26-40,Superb quality and great value.,Positive
+R0554,Electronics,41-60,Very disappointing.,Negative
+R0555,Electronics,60+,Highly recommend this.,Positive
+R0556,Books,41-60,Meets expectations but no more.,Neutral
+R0557,Books,26-40,Not worth the money.,Negative
+R0558,Electronics,41-60,Not worth the money.,Negative
+R0559,Home Appliances,60+,Exceeded my expectations!,Positive
+R0560,Electronics,18-25,Exceeded my expectations!,Positive
+R0561,Books,60+,Very disappointing.,Negative
+R0562,Apparel,18-25,Horrible experience with this item.,Negative
+R0563,Apparel,26-40,Neutral feelings about this.,Neutral
+R0564,Home Appliances,60+,"It's okay, nothing special.",Neutral
+R0565,Apparel,26-40,Neutral feelings about this.,Neutral
+R0566,Electronics,41-60,"Terrible product, do not buy!",Negative
+R0567,Apparel,41-60,"It's okay, nothing special.",Neutral
+R0568,Toys,41-60,Amazing product!,Positive
+R0569,Home Appliances,41-60,Neutral feelings about this.,Neutral
+R0570,Electronics,41-60,Five stars!,Positive
+R0571,Apparel,18-25,Will never buy this again.,Negative
+R0572,Electronics,60+,"Average quality, acceptable for the price.",Neutral
+R0573,Electronics,18-25,Poor quality and bad design.,Negative
+R0574,Apparel,26-40,"Does the job, but not great.",Neutral
+R0575,Home Appliances,26-40,"Average quality, acceptable for the price.",Neutral
+R0576,Apparel,41-60,Neutral feelings about this.,Neutral
+R0577,Electronics,60+,"Average quality, acceptable for the price.",Neutral
+R0578,Toys,18-25,Will never buy this again.,Negative
+R0579,Electronics,18-25,Superb quality and great value.,Positive
+R0580,Apparel,60+,Horrible experience with this item.,Negative
+R0581,Apparel,60+,"Does the job, but not great.",Neutral
+R0582,Home Appliances,26-40,"It's okay, nothing special.",Neutral
+R0583,Home Appliances,26-40,Neutral feelings about this.,Neutral
+R0584,Toys,41-60,Poor quality and bad design.,Negative
+R0585,Apparel,26-40,Meets expectations but no more.,Neutral
+R0586,Books,60+,Neutral feelings about this.,Neutral
+R0587,Toys,60+,Highly recommend this.,Positive
+R0588,Books,18-25,Superb quality and great value.,Positive
+R0589,Apparel,18-25,Very disappointing.,Negative
+R0590,Toys,26-40,"It's okay, nothing special.",Neutral
+R0591,Books,26-40,Exceeded my expectations!,Positive
+R0592,Electronics,18-25,Five stars!,Positive
+R0593,Books,41-60,Meets expectations but no more.,Neutral
+R0594,Apparel,60+,"Does the job, but not great.",Neutral
+R0595,Toys,41-60,"Average quality, acceptable for the price.",Neutral
+R0596,Toys,41-60,Horrible experience with this item.,Negative
+R0597,Books,41-60,"Average quality, acceptable for the price.",Neutral
+R0598,Books,18-25,"Terrible product, do not buy!",Negative
+R0599,Electronics,41-60,"Terrible product, do not buy!",Negative
+R0600,Home Appliances,41-60,Neutral feelings about this.,Neutral
+R0601,Apparel,41-60,"It's okay, nothing special.",Neutral
+R0602,Books,41-60,Highly recommend this.,Positive
+R0603,Home Appliances,60+,Amazing product!,Positive
+R0604,Toys,60+,Superb quality and great value.,Positive
+R0605,Electronics,60+,Amazing product!,Positive
+R0606,Books,60+,Horrible experience with this item.,Negative
+R0607,Home Appliances,60+,Poor quality and bad design.,Negative
+R0608,Apparel,60+,Will never buy this again.,Negative
+R0609,Electronics,26-40,Superb quality and great value.,Positive
+R0610,Books,26-40,Highly recommend this.,Positive
+R0611,Electronics,60+,Neutral feelings about this.,Neutral
+R0612,Home Appliances,60+,"Average quality, acceptable for the price.",Neutral
+R0613,Electronics,41-60,Superb quality and great value.,Positive
+R0614,Electronics,60+,Poor quality and bad design.,Negative
+R0615,Home Appliances,18-25,Exceeded my expectations!,Positive
+R0616,Books,18-25,Poor quality and bad design.,Negative
+R0617,Books,18-25,"Does the job, but not great.",Neutral
+R0618,Electronics,26-40,"Does the job, but not great.",Neutral
+R0619,Home Appliances,60+,Highly recommend this.,Positive
+R0620,Toys,41-60,Perfect in every way!,Positive
+R0621,Home Appliances,18-25,"It's okay, nothing special.",Neutral
+R0622,Books,41-60,Five stars!,Positive
+R0623,Toys,60+,Loved it! Will buy again.,Positive
+R0624,Toys,26-40,Poor quality and bad design.,Negative
+R0625,Electronics,41-60,Very disappointing.,Negative
+R0626,Toys,41-60,Horrible experience with this item.,Negative
+R0627,Books,18-25,Amazing product!,Positive
+R0628,Toys,26-40,Horrible experience with this item.,Negative
+R0629,Home Appliances,41-60,Horrible experience with this item.,Negative
+R0630,Apparel,60+,Very disappointing.,Negative
+R0631,Apparel,18-25,Loved it! Will buy again.,Positive
+R0632,Electronics,60+,Horrible experience with this item.,Negative
+R0633,Home Appliances,26-40,"It's okay, nothing special.",Neutral
+R0634,Toys,41-60,"Average quality, acceptable for the price.",Neutral
+R0635,Toys,41-60,Meets expectations but no more.,Neutral
+R0636,Books,60+,Superb quality and great value.,Positive
+R0637,Books,18-25,Meets expectations but no more.,Neutral
+R0638,Apparel,26-40,"Average quality, acceptable for the price.",Neutral
+R0639,Electronics,60+,Neutral feelings about this.,Neutral
+R0640,Home Appliances,41-60,Very disappointing.,Negative
+R0641,Books,18-25,Five stars!,Positive
+R0642,Toys,26-40,Loved it! Will buy again.,Positive
+R0643,Electronics,18-25,Loved it! Will buy again.,Positive
+R0644,Electronics,18-25,Neutral feelings about this.,Neutral
+R0645,Apparel,41-60,Neutral feelings about this.,Neutral
+R0646,Toys,60+,Amazing product!,Positive
+R0647,Toys,18-25,"Does the job, but not great.",Neutral
+R0648,Apparel,60+,"It's okay, nothing special.",Neutral
+R0649,Toys,60+,Perfect in every way!,Positive
+R0650,Electronics,26-40,Neutral feelings about this.,Neutral
+R0651,Apparel,60+,Very disappointing.,Negative
+R0652,Electronics,41-60,Very disappointing.,Negative
+R0653,Toys,41-60,"It's okay, nothing special.",Neutral
+R0654,Apparel,60+,Loved it! Will buy again.,Positive
+R0655,Apparel,41-60,Will never buy this again.,Negative
+R0656,Toys,26-40,Horrible experience with this item.,Negative
+R0657,Toys,18-25,Will never buy this again.,Negative
+R0658,Home Appliances,41-60,Five stars!,Positive
+R0659,Electronics,60+,"Does the job, but not great.",Neutral
+R0660,Books,41-60,Exceeded my expectations!,Positive
+R0661,Apparel,18-25,Superb quality and great value.,Positive
+R0662,Home Appliances,18-25,"Average quality, acceptable for the price.",Neutral
+R0663,Toys,26-40,Superb quality and great value.,Positive
+R0664,Home Appliances,60+,Poor quality and bad design.,Negative
+R0665,Toys,18-25,Very disappointing.,Negative
+R0666,Toys,60+,"Average quality, acceptable for the price.",Neutral
+R0667,Books,60+,"Average quality, acceptable for the price.",Neutral
+R0668,Toys,26-40,Amazing product!,Positive
+R0669,Apparel,41-60,Will never buy this again.,Negative
+R0670,Electronics,26-40,"Does the job, but not great.",Neutral
+R0671,Home Appliances,41-60,Meets expectations but no more.,Neutral
+R0672,Books,18-25,"Terrible product, do not buy!",Negative
+R0673,Apparel,26-40,Exceeded my expectations!,Positive
+R0674,Electronics,18-25,"Average quality, acceptable for the price.",Neutral
+R0675,Toys,18-25,Not worth the money.,Negative
+R0676,Books,41-60,Perfect in every way!,Positive
+R0677,Apparel,60+,Loved it! Will buy again.,Positive
+R0678,Electronics,26-40,"Terrible product, do not buy!",Negative
+R0679,Books,18-25,"Terrible product, do not buy!",Negative
+R0680,Home Appliances,18-25,Loved it! Will buy again.,Positive
+R0681,Electronics,18-25,Will never buy this again.,Negative
+R0682,Books,26-40,Will never buy this again.,Negative
+R0683,Electronics,41-60,Neutral feelings about this.,Neutral
+R0684,Toys,18-25,Meets expectations but no more.,Neutral
+R0685,Apparel,41-60,Neutral feelings about this.,Neutral
+R0686,Toys,18-25,Will never buy this again.,Negative
+R0687,Toys,41-60,Will never buy this again.,Negative
+R0688,Books,41-60,Not worth the money.,Negative
+R0689,Toys,60+,Will never buy this again.,Negative
+R0690,Apparel,26-40,Five stars!,Positive
+R0691,Apparel,26-40,"Does the job, but not great.",Neutral
+R0692,Electronics,18-25,Neutral feelings about this.,Neutral
+R0693,Books,18-25,Amazing product!,Positive
+R0694,Apparel,41-60,Neutral feelings about this.,Neutral
+R0695,Home Appliances,26-40,"It's okay, nothing special.",Neutral
+R0696,Home Appliances,60+,Five stars!,Positive
+R0697,Electronics,18-25,Exceeded my expectations!,Positive
+R0698,Apparel,18-25,Neutral feelings about this.,Neutral
+R0699,Electronics,18-25,Neutral feelings about this.,Neutral
+R0700,Apparel,60+,Very disappointing.,Negative
+R0701,Home Appliances,26-40,"Terrible product, do not buy!",Negative
+R0702,Home Appliances,18-25,Horrible experience with this item.,Negative
+R0703,Books,41-60,Horrible experience with this item.,Negative
+R0704,Electronics,60+,Poor quality and bad design.,Negative
+R0705,Apparel,26-40,Perfect in every way!,Positive
+R0706,Toys,18-25,Loved it! Will buy again.,Positive
+R0707,Books,18-25,Loved it! Will buy again.,Positive
+R0708,Electronics,60+,Amazing product!,Positive
+R0709,Home Appliances,41-60,Very disappointing.,Negative
+R0710,Books,18-25,Poor quality and bad design.,Negative
+R0711,Books,26-40,"Average quality, acceptable for the price.",Neutral
+R0712,Books,41-60,"Does the job, but not great.",Neutral
+R0713,Apparel,41-60,Five stars!,Positive
+R0714,Electronics,60+,Five stars!,Positive
+R0715,Toys,60+,Highly recommend this.,Positive
+R0716,Toys,60+,Horrible experience with this item.,Negative
+R0717,Books,18-25,Neutral feelings about this.,Neutral
+R0718,Toys,18-25,Neutral feelings about this.,Neutral
+R0719,Home Appliances,41-60,Loved it! Will buy again.,Positive
+R0720,Books,18-25,"Average quality, acceptable for the price.",Neutral
+R0721,Electronics,41-60,Neutral feelings about this.,Neutral
+R0722,Toys,60+,Loved it! Will buy again.,Positive
+R0723,Home Appliances,26-40,"Terrible product, do not buy!",Negative
+R0724,Electronics,26-40,"Does the job, but not great.",Neutral
+R0725,Apparel,41-60,Poor quality and bad design.,Negative
+R0726,Electronics,60+,Will never buy this again.,Negative
+R0727,Apparel,26-40,"Does the job, but not great.",Neutral
+R0728,Electronics,18-25,"Terrible product, do not buy!",Negative
+R0729,Electronics,41-60,Exceeded my expectations!,Positive
+R0730,Electronics,60+,Meets expectations but no more.,Neutral
+R0731,Toys,41-60,Superb quality and great value.,Positive
+R0732,Books,26-40,Perfect in every way!,Positive
+R0733,Toys,26-40,Meets expectations but no more.,Neutral
+R0734,Electronics,60+,Neutral feelings about this.,Neutral
+R0735,Apparel,18-25,Horrible experience with this item.,Negative
+R0736,Apparel,60+,Horrible experience with this item.,Negative
+R0737,Electronics,18-25,Neutral feelings about this.,Neutral
+R0738,Home Appliances,26-40,Highly recommend this.,Positive
+R0739,Apparel,41-60,Five stars!,Positive
+R0740,Home Appliances,41-60,Meets expectations but no more.,Neutral
+R0741,Home Appliances,41-60,Meets expectations but no more.,Neutral
+R0742,Toys,41-60,Very disappointing.,Negative
+R0743,Electronics,26-40,"Terrible product, do not buy!",Negative
+R0744,Apparel,60+,Will never buy this again.,Negative
+R0745,Home Appliances,60+,Amazing product!,Positive
+R0746,Apparel,18-25,"Average quality, acceptable for the price.",Neutral
+R0747,Books,60+,Meets expectations but no more.,Neutral
+R0748,Books,26-40,Poor quality and bad design.,Negative
+R0749,Electronics,41-60,"It's okay, nothing special.",Neutral
+R0750,Apparel,60+,"It's okay, nothing special.",Neutral
+R0751,Electronics,26-40,Neutral feelings about this.,Neutral
+R0752,Books,18-25,Poor quality and bad design.,Negative
+R0753,Apparel,18-25,Perfect in every way!,Positive
+R0754,Toys,18-25,Highly recommend this.,Positive
+R0755,Electronics,41-60,Exceeded my expectations!,Positive
+R0756,Books,26-40,"Does the job, but not great.",Neutral
+R0757,Toys,41-60,Amazing product!,Positive
+R0758,Home Appliances,18-25,Amazing product!,Positive
+R0759,Home Appliances,60+,Superb quality and great value.,Positive
+R0760,Home Appliances,26-40,"Terrible product, do not buy!",Negative
+R0761,Home Appliances,41-60,Exceeded my expectations!,Positive
+R0762,Apparel,60+,Perfect in every way!,Positive
+R0763,Books,41-60,"Terrible product, do not buy!",Negative
+R0764,Apparel,26-40,Very disappointing.,Negative
+R0765,Home Appliances,41-60,Loved it! Will buy again.,Positive
+R0766,Electronics,26-40,Amazing product!,Positive
+R0767,Apparel,26-40,Highly recommend this.,Positive
+R0768,Home Appliances,18-25,Meets expectations but no more.,Neutral
+R0769,Apparel,41-60,Five stars!,Positive
+R0770,Books,26-40,Loved it! Will buy again.,Positive
+R0771,Apparel,26-40,Meets expectations but no more.,Neutral
+R0772,Books,41-60,Will never buy this again.,Negative
+R0773,Home Appliances,60+,Not worth the money.,Negative
+R0774,Toys,18-25,Will never buy this again.,Negative
+R0775,Toys,26-40,Neutral feelings about this.,Neutral
+R0776,Electronics,41-60,Not worth the money.,Negative
+R0777,Apparel,41-60,"It's okay, nothing special.",Neutral
+R0778,Toys,41-60,Not worth the money.,Negative
+R0779,Apparel,60+,Exceeded my expectations!,Positive
+R0780,Apparel,26-40,Five stars!,Positive
+R0781,Apparel,26-40,Exceeded my expectations!,Positive
+R0782,Electronics,26-40,Loved it! Will buy again.,Positive
+R0783,Home Appliances,26-40,Very disappointing.,Negative
+R0784,Apparel,41-60,Very disappointing.,Negative
+R0785,Electronics,41-60,Loved it! Will buy again.,Positive
+R0786,Electronics,18-25,Horrible experience with this item.,Negative
+R0787,Apparel,41-60,Very disappointing.,Negative
+R0788,Apparel,41-60,Perfect in every way!,Positive
+R0789,Books,18-25,"Terrible product, do not buy!",Negative
+R0790,Home Appliances,26-40,Horrible experience with this item.,Negative
+R0791,Apparel,26-40,Neutral feelings about this.,Neutral
+R0792,Electronics,41-60,Very disappointing.,Negative
+R0793,Home Appliances,60+,Loved it! Will buy again.,Positive
+R0794,Toys,41-60,Neutral feelings about this.,Neutral
+R0795,Apparel,60+,Loved it! Will buy again.,Positive
+R0796,Electronics,60+,Horrible experience with this item.,Negative
+R0797,Apparel,41-60,Horrible experience with this item.,Negative
+R0798,Toys,18-25,Highly recommend this.,Positive
+R0799,Apparel,60+,Not worth the money.,Negative
+R0800,Books,26-40,Five stars!,Positive
+R0801,Electronics,18-25,Poor quality and bad design.,Negative
+R0802,Toys,60+,Amazing product!,Positive
+R0803,Home Appliances,41-60,Five stars!,Positive
+R0804,Apparel,60+,Five stars!,Positive
+R0805,Home Appliances,18-25,Five stars!,Positive
+R0806,Electronics,18-25,Very disappointing.,Negative
+R0807,Apparel,26-40,"Does the job, but not great.",Neutral
+R0808,Apparel,41-60,Neutral feelings about this.,Neutral
+R0809,Toys,26-40,Neutral feelings about this.,Neutral
+R0810,Electronics,26-40,Perfect in every way!,Positive
+R0811,Books,26-40,"Does the job, but not great.",Neutral
+R0812,Toys,60+,Exceeded my expectations!,Positive
+R0813,Apparel,41-60,Very disappointing.,Negative
+R0814,Electronics,60+,Will never buy this again.,Negative
+R0815,Apparel,26-40,Neutral feelings about this.,Neutral
+R0816,Toys,18-25,Meets expectations but no more.,Neutral
+R0817,Electronics,26-40,Very disappointing.,Negative
+R0818,Books,26-40,"It's okay, nothing special.",Neutral
+R0819,Home Appliances,18-25,Five stars!,Positive
+R0820,Apparel,60+,"Average quality, acceptable for the price.",Neutral
+R0821,Home Appliances,60+,Highly recommend this.,Positive
+R0822,Toys,26-40,Exceeded my expectations!,Positive
+R0823,Apparel,41-60,Not worth the money.,Negative
+R0824,Electronics,26-40,Poor quality and bad design.,Negative
+R0825,Apparel,60+,Five stars!,Positive
+R0826,Home Appliances,26-40,Neutral feelings about this.,Neutral
+R0827,Home Appliances,60+,Five stars!,Positive
+R0828,Apparel,26-40,Loved it! Will buy again.,Positive
+R0829,Toys,26-40,"It's okay, nothing special.",Neutral
+R0830,Home Appliances,60+,Meets expectations but no more.,Neutral
+R0831,Toys,26-40,Exceeded my expectations!,Positive
+R0832,Apparel,60+,Perfect in every way!,Positive
+R0833,Apparel,18-25,Perfect in every way!,Positive
+R0834,Apparel,60+,Five stars!,Positive
+R0835,Home Appliances,41-60,Highly recommend this.,Positive
+R0836,Apparel,18-25,Poor quality and bad design.,Negative
+R0837,Home Appliances,26-40,Neutral feelings about this.,Neutral
+R0838,Electronics,60+,Not worth the money.,Negative
+R0839,Home Appliances,41-60,"It's okay, nothing special.",Neutral
+R0840,Electronics,26-40,Horrible experience with this item.,Negative
+R0841,Books,41-60,Will never buy this again.,Negative
+R0842,Toys,41-60,Superb quality and great value.,Positive
+R0843,Apparel,60+,Perfect in every way!,Positive
+R0844,Apparel,26-40,"Average quality, acceptable for the price.",Neutral
+R0845,Electronics,26-40,Highly recommend this.,Positive
+R0846,Home Appliances,60+,Loved it! Will buy again.,Positive
+R0847,Apparel,26-40,"Terrible product, do not buy!",Negative
+R0848,Apparel,26-40,Loved it! Will buy again.,Positive
+R0849,Toys,41-60,Not worth the money.,Negative
+R0850,Home Appliances,60+,Perfect in every way!,Positive
+R0851,Home Appliances,41-60,Neutral feelings about this.,Neutral
+R0852,Electronics,41-60,"Terrible product, do not buy!",Negative
+R0853,Apparel,41-60,"Does the job, but not great.",Neutral
+R0854,Toys,26-40,Will never buy this again.,Negative
+R0855,Books,60+,Meets expectations but no more.,Neutral
+R0856,Books,41-60,"Terrible product, do not buy!",Negative
+R0857,Books,41-60,Loved it! Will buy again.,Positive
+R0858,Toys,18-25,Amazing product!,Positive
+R0859,Books,26-40,Five stars!,Positive
+R0860,Electronics,41-60,Five stars!,Positive
+R0861,Books,60+,Meets expectations but no more.,Neutral
+R0862,Electronics,18-25,"Does the job, but not great.",Neutral
+R0863,Toys,41-60,Very disappointing.,Negative
+R0864,Apparel,41-60,Exceeded my expectations!,Positive
+R0865,Apparel,26-40,"It's okay, nothing special.",Neutral
+R0866,Electronics,41-60,"Does the job, but not great.",Neutral
+R0867,Apparel,41-60,"Average quality, acceptable for the price.",Neutral
+R0868,Electronics,26-40,Will never buy this again.,Negative
+R0869,Toys,18-25,Amazing product!,Positive
+R0870,Electronics,41-60,Amazing product!,Positive
+R0871,Electronics,26-40,Highly recommend this.,Positive
+R0872,Books,18-25,Neutral feelings about this.,Neutral
+R0873,Toys,18-25,Exceeded my expectations!,Positive
+R0874,Electronics,26-40,Loved it! Will buy again.,Positive
+R0875,Apparel,60+,Exceeded my expectations!,Positive
+R0876,Electronics,26-40,Superb quality and great value.,Positive
+R0877,Toys,41-60,Highly recommend this.,Positive
+R0878,Toys,26-40,"Average quality, acceptable for the price.",Neutral
+R0879,Toys,26-40,Not worth the money.,Negative
+R0880,Electronics,18-25,Superb quality and great value.,Positive
+R0881,Electronics,60+,Perfect in every way!,Positive
+R0882,Electronics,41-60,Loved it! Will buy again.,Positive
+R0883,Electronics,41-60,"Average quality, acceptable for the price.",Neutral
+R0884,Electronics,26-40,Poor quality and bad design.,Negative
+R0885,Electronics,26-40,Very disappointing.,Negative
+R0886,Toys,60+,Loved it! Will buy again.,Positive
+R0887,Home Appliances,60+,Will never buy this again.,Negative
+R0888,Apparel,18-25,Neutral feelings about this.,Neutral
+R0889,Toys,18-25,Meets expectations but no more.,Neutral
+R0890,Home Appliances,60+,"Does the job, but not great.",Neutral
+R0891,Apparel,18-25,Exceeded my expectations!,Positive
+R0892,Home Appliances,60+,"Does the job, but not great.",Neutral
+R0893,Toys,18-25,"It's okay, nothing special.",Neutral
+R0894,Electronics,60+,Neutral feelings about this.,Neutral
+R0895,Toys,60+,Superb quality and great value.,Positive
+R0896,Apparel,41-60,Poor quality and bad design.,Negative
+R0897,Apparel,26-40,Perfect in every way!,Positive
+R0898,Books,18-25,Poor quality and bad design.,Negative
+R0899,Apparel,18-25,Amazing product!,Positive
+R0900,Books,41-60,Will never buy this again.,Negative
+R0901,Apparel,60+,Exceeded my expectations!,Positive
+R0902,Electronics,60+,"It's okay, nothing special.",Neutral
+R0903,Toys,41-60,Poor quality and bad design.,Negative
+R0904,Home Appliances,60+,Horrible experience with this item.,Negative
+R0905,Apparel,18-25,"Does the job, but not great.",Neutral
+R0906,Home Appliances,60+,Very disappointing.,Negative
+R0907,Home Appliances,18-25,Perfect in every way!,Positive
+R0908,Toys,26-40,"It's okay, nothing special.",Neutral
+R0909,Home Appliances,18-25,Meets expectations but no more.,Neutral
+R0910,Books,18-25,Amazing product!,Positive
+R0911,Home Appliances,26-40,Horrible experience with this item.,Negative
+R0912,Electronics,41-60,"Average quality, acceptable for the price.",Neutral
+R0913,Toys,18-25,Will never buy this again.,Negative
+R0914,Apparel,41-60,"Average quality, acceptable for the price.",Neutral
+R0915,Toys,18-25,Perfect in every way!,Positive
+R0916,Books,41-60,"It's okay, nothing special.",Neutral
+R0917,Books,60+,"Average quality, acceptable for the price.",Neutral
+R0918,Toys,41-60,Not worth the money.,Negative
+R0919,Books,26-40,Very disappointing.,Negative
+R0920,Books,26-40,Meets expectations but no more.,Neutral
+R0921,Apparel,26-40,Very disappointing.,Negative
+R0922,Home Appliances,60+,"Does the job, but not great.",Neutral
+R0923,Electronics,18-25,"Does the job, but not great.",Neutral
+R0924,Toys,41-60,Horrible experience with this item.,Negative
+R0925,Books,60+,Loved it! Will buy again.,Positive
+R0926,Books,60+,"Terrible product, do not buy!",Negative
+R0927,Electronics,26-40,Meets expectations but no more.,Neutral
+R0928,Toys,18-25,Superb quality and great value.,Positive
+R0929,Electronics,18-25,Meets expectations but no more.,Neutral
+R0930,Home Appliances,41-60,Poor quality and bad design.,Negative
+R0931,Home Appliances,41-60,Poor quality and bad design.,Negative
+R0932,Home Appliances,26-40,Amazing product!,Positive
+R0933,Apparel,41-60,Will never buy this again.,Negative
+R0934,Home Appliances,26-40,Neutral feelings about this.,Neutral
+R0935,Electronics,26-40,Meets expectations but no more.,Neutral
+R0936,Apparel,26-40,Superb quality and great value.,Positive
+R0937,Home Appliances,26-40,"It's okay, nothing special.",Neutral
+R0938,Toys,41-60,Exceeded my expectations!,Positive
+R0939,Home Appliances,26-40,Amazing product!,Positive
+R0940,Books,26-40,Not worth the money.,Negative
+R0941,Books,41-60,Will never buy this again.,Negative
+R0942,Books,41-60,Perfect in every way!,Positive
+R0943,Electronics,26-40,Superb quality and great value.,Positive
+R0944,Apparel,26-40,Not worth the money.,Negative
+R0945,Home Appliances,60+,Very disappointing.,Negative
+R0946,Books,41-60,Five stars!,Positive
+R0947,Home Appliances,60+,Poor quality and bad design.,Negative
+R0948,Toys,26-40,Horrible experience with this item.,Negative
+R0949,Books,26-40,Loved it! Will buy again.,Positive
+R0950,Books,41-60,Neutral feelings about this.,Neutral
+R0951,Toys,60+,"Does the job, but not great.",Neutral
+R0952,Toys,26-40,Will never buy this again.,Negative
+R0953,Toys,18-25,Meets expectations but no more.,Neutral
+R0954,Toys,60+,Very disappointing.,Negative
+R0955,Books,18-25,Very disappointing.,Negative
+R0956,Electronics,60+,"Average quality, acceptable for the price.",Neutral
+R0957,Apparel,60+,Superb quality and great value.,Positive
+R0958,Electronics,41-60,Highly recommend this.,Positive
+R0959,Apparel,60+,Poor quality and bad design.,Negative
+R0960,Electronics,26-40,Loved it! Will buy again.,Positive
+R0961,Toys,41-60,Not worth the money.,Negative
+R0962,Home Appliances,60+,Horrible experience with this item.,Negative
+R0963,Toys,60+,Very disappointing.,Negative
+R0964,Toys,41-60,"It's okay, nothing special.",Neutral
+R0965,Books,18-25,Loved it! Will buy again.,Positive
+R0966,Home Appliances,26-40,Meets expectations but no more.,Neutral
+R0967,Books,18-25,Meets expectations but no more.,Neutral
+R0968,Electronics,26-40,Will never buy this again.,Negative
+R0969,Apparel,41-60,Horrible experience with this item.,Negative
+R0970,Home Appliances,60+,Exceeded my expectations!,Positive
+R0971,Home Appliances,26-40,"Does the job, but not great.",Neutral
+R0972,Books,26-40,Highly recommend this.,Positive
+R0973,Apparel,18-25,Poor quality and bad design.,Negative
+R0974,Books,41-60,Perfect in every way!,Positive
+R0975,Books,26-40,Poor quality and bad design.,Negative
+R0976,Toys,60+,"Does the job, but not great.",Neutral
+R0977,Home Appliances,60+,Highly recommend this.,Positive
+R0978,Toys,18-25,Will never buy this again.,Negative
+R0979,Electronics,18-25,"Terrible product, do not buy!",Negative
+R0980,Toys,18-25,Horrible experience with this item.,Negative
+R0981,Apparel,18-25,Perfect in every way!,Positive
+R0982,Books,18-25,"It's okay, nothing special.",Neutral
+R0983,Books,60+,Will never buy this again.,Negative
+R0984,Home Appliances,60+,Horrible experience with this item.,Negative
+R0985,Toys,26-40,Will never buy this again.,Negative
+R0986,Electronics,60+,Meets expectations but no more.,Neutral
+R0987,Books,26-40,Five stars!,Positive
+R0988,Electronics,60+,Perfect in every way!,Positive
+R0989,Home Appliances,41-60,Superb quality and great value.,Positive
+R0990,Home Appliances,26-40,"Terrible product, do not buy!",Negative
+R0991,Books,60+,Perfect in every way!,Positive
+R0992,Electronics,41-60,Loved it! Will buy again.,Positive
+R0993,Electronics,26-40,Five stars!,Positive
+R0994,Electronics,60+,Neutral feelings about this.,Neutral
+R0995,Toys,26-40,"Terrible product, do not buy!",Negative
+R0996,Electronics,41-60,Superb quality and great value.,Positive
+R0997,Electronics,41-60,Loved it! Will buy again.,Positive
+R0998,Books,26-40,"Does the job, but not great.",Neutral
+R0999,Home Appliances,26-40,Superb quality and great value.,Positive
+R1000,Books,18-25,"Does the job, but not great.",Neutral
